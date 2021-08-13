@@ -416,6 +416,12 @@ PRODUCT_PACKAGES += \
     qti-telephony-utils \
     qti_telephony_utils.xml \
 
+# Rootdir
+PRODUCT_PACKAGES += \
+    init.xiaomi.device.rc \
+    init.xiaomi.device.sh \
+    init.performance_level.rc
+
 PRODUCT_BOOT_JARS += \
     telephony-ext
 
