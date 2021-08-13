@@ -421,11 +421,17 @@ PRODUCT_PACKAGES += \
 
 # Telephony
 PRODUCT_PACKAGES += \
+<<<<<<< HEAD
     telephony-ext \
     qti-telephony-hidl-wrapper \
     qti_telephony_hidl_wrapper.xml \
     qti-telephony-utils \
     qti_telephony_utils.xml \
+=======
+    init.xiaomi.device.rc \
+    init.xiaomi.device.sh \
+    init.performance_level.rc
+>>>>>>> cbc5a401... rova: init: Add script for `exTHmUI's` GameMode performance control
 
 PRODUCT_BOOT_JARS += \
     telephony-ext
