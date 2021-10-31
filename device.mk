@@ -389,8 +389,7 @@ PRODUCT_PACKAGES += \
     init.msm.usb.configfs.rc \
     init.target.rc \
     ueventd.qcom.rc \
-    init.extras.rc \
-    init.logcat.rc
+    init.extras.rc
 
 PRODUCT_PACKAGES += \
     init.baseband.sh \
