@@ -27,6 +27,7 @@ $(call inherit-product, vendor/aosp/common.mk)
 
 # Prebuilt apps
 $(call inherit-product-if-exists, vendor/prebuilt-apps/config.mk)
+$(call inherit-product-if-exists, vendor/lawnchair/lawnchair.mk)
 
 PRODUCT_DEVICE := santoni
 PRODUCT_BRAND := Xiaomi
