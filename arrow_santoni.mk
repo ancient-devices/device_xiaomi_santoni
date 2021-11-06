@@ -25,6 +25,9 @@ $(call inherit-product, device/xiaomi/santoni/device.mk)
 # Inherit some common ArrowOS stuff.
 $(call inherit-product, vendor/arrow/config/common.mk)
 
+# Prebuilt apps
+$(call inherit-product-if-exists, vendor/prebuilt-apps/config.mk)
+
 PRODUCT_DEVICE := santoni
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := Redmi 4X
