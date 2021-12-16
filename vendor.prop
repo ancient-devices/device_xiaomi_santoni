@@ -187,6 +187,9 @@ ro.vendor.use_data_netmgrd=true
 persist.data.netmgrd.qos.enable=true
 persist.vendor.data.mode=concurrent
 
+# Netflix
+ro.netflix.bsp_rev=Q660-13149-1
+
 # Radio
 DEVICE_PROVISIONED=1
 persist.dbg.volte_avail_ovr=1
