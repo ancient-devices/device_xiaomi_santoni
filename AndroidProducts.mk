@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-   $(LOCAL_DIR)/aosp_santoni.mk
+   $(LOCAL_DIR)/nad_santoni.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_santoni-user \
-    aosp_santoni-userdebug \
-    aosp_santoni-eng
+    nad_santoni-user \
+    nad_santoni-userdebug \
+    nad_santoni-eng
