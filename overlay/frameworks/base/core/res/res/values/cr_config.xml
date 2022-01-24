@@ -27,4 +27,7 @@
     <bool name="config_dozePulsePickup">true</bool>
     <bool name="config_dozePulseTilt">true</bool>
 
+    <!-- Whether device supports an gaming mode profiles -->
+    <bool name="config_gamingmode_performance">true</bool>
+
 </resources>
