@@ -1,0 +1,11 @@
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="ancient_device_name_summary">Redmi 4X</string>
+    <string name="ancient_chipset_type_summary">Snapdragon 435</string>
+    <string name="ancient_gpu_summary">Adreno 505</string>
+    <string name="ancient_camera_mp_summary">13 MP, f/2.0, AF</string>
+    <string name="ancient_screen_type_summary">IPS LCD 5.0 Inch</string>
+    <string name="maintainer_name">Krxyzn</string>
+
+<resource>

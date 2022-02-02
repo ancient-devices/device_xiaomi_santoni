@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-   $(LOCAL_DIR)/nad_santoni.mk
+   $(LOCAL_DIR)/ancient_santoni.mk
 
 COMMON_LUNCH_CHOICES := \
-    nad_santoni-user \
-    nad_santoni-userdebug \
-    nad_santoni-eng
+    ancient_santoni-user \
+    ancient_santoni-userdebug \
+    ancient_santoni-eng
