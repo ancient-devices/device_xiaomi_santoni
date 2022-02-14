@@ -142,7 +142,12 @@ PRODUCT_PACKAGES += \
 
 # Camera
 PRODUCT_PACKAGES += \
+<<<<<<< HEAD
     GoogleCameraGo
+=======
+    camera.msm8937 \
+    Snap
+>>>>>>> parent of e7cc3f79... Santoni: Add GoogleCameraGo
 
 PRODUCT_PACKAGES += \
     camera.device@1.0-impl \
