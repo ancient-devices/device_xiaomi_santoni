@@ -7,13 +7,13 @@
   },
   {
     "remote": "github",
-    "repository": "ancient-devices/android_vendor_xiaomi_santoni",
+    "repository": "ancient-devices/vendor_xiaomi_santoni",
     "target_path": "vendor/xiaomi",
     "branch": "12.0"
   },
   {
     "remote": "github",
-    "repository": "ancient-devices/android_device_xiaomi_santoni",
+    "repository": "ancient-devices/device_xiaomi_santoni",
     "target_path": "device/xiaomi/santoni",
     "branch": "Twelve"
   },
